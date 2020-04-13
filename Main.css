@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+    margin-top: 75px;
+    
+  }
+  
+  form {
+    border-style: solid;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .choices {
+    padding-left: 10px;
+  }
+  
+  button {
+   float: right;
+   margin-right: 20px;
+  }
+  
+  .question-and-score {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-right: 40px;
+  
+  }
+  
+  .question {
+  padding: 2px;
+  }
+  
+  
+  
